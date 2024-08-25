@@ -7,13 +7,61 @@ nav{
     color: white;
     padding: 15px;
 }
-
 li,h1,ul{
+
     display: inline;
 }
 ul{
-    margin-right: 2000%;
+    margin-left: 70%;
 }
 li{
     color: gray;
+    cursor: pointer;
 }
+
+li:nover{
+    color: white;
+}
+
+input{
+    width: 60%;
+padding: 15px;
+}
+.searchbar{
+    padding:50px ;
+    text-align: center;
+}
+.box{
+    border: black 2px solid;
+    display: inline-block;
+    width: 220px;
+}
+.box:hover{
+    background-color: black;
+    color: white;
+}
+.products{
+    text-align: center;
+
+}
+
+.about{
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.contect{
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+
+
+
+
